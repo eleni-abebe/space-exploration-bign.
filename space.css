@@ -1,0 +1,29 @@
+body{
+	color:#82a5ca;
+	margin:0;
+	text-align:center;
+	font-family: "Orbitron", sans-serif;
+#idd{
+	width:100px;
+}	
+
+}
+.btn{
+	padding:6px 12px;
+	background:white;
+	border:none;
+	font-family: "Orbitron", sans-serif;
+	color:#82a5ca;
+	font-weight: bold;
+}
+.e{
+	text-decoration: underline;
+}
+#hero{
+	background-image:url("giphy.webp");
+	background-size:cover;
+	padding:10px 0 400px 0;
+}
+#title{
+	text-shadow: 0px 0px 4px black;
+}
